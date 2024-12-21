@@ -1,0 +1,2993 @@
+Contents lists available at ScienceDirect 
+
+Addictive Behaviors 
+
+journal homepage: www.elsevier.com/locate/addictbeh 
+
+Parent’s awareness of, and influence on, their 14–17-year-old child’s 
+vaping and smoking behaviours; an analysis of 3242 parent–child pairs 
+in Australia 
+
+Sam Egger a, Christina Watts a, Anita Dessaix b, Alecia Brooks b, Emily Jenkinson b, Paul Grogan a, 
+Becky Freeman c,* 
+a The Daffodil Centre, The University of Sydney, A Joint Venture with Cancer Council NSW, Woolloomooloo, Australia 
+b Cancer Prevention and Advocacy Division, Cancer Council NSW, New South Wales, Australia 
+c Prevention Research Collaboration, School of Public Health, Faculty of Medicine and Health, The University of Sydney, Camperdown, Australia   
+
+A R T I C L E  I N F O    
+
+A B S T R A C T    
+
+Keywords: 
+E-cigarettes 
+Tobacco 
+Smoking 
+Adolescents 
+Parental awareness 
+Parental influence 
+Vaping 
+
+Background: Vaping by young people in Australia is a rapidly emerging public health issue. Evidence shows that 
+parental  behaviours  and  attitudes  can  play  a  key  role  in  influencing  adolescent  behaviours.  Considering  the 
+health  harms  of  vaping  and  evidence  that  it  can  be  a  gateway  to  tobacco  smoking  for  never-smokers,  it  is 
+important  to  understand  whether  parents’  smoking  and  vaping  behaviours  influence  their  teenage  children’s 
+smoking and vaping behaviours. 
+Methods: Online cross-sectional surveys as part of the Generation Vape study, conducted in Australia in 2021/ 
+2022, were used to assess parents’ influence on, and awareness of, one of their 14–17-year-old child’s vaping and 
+smoking behaviours. Participants were 3242 parents and 3242 14–17-year-old teenage children. 
+Results: The risk of vaping and smoking uptake among 14–17-year-old teenagers was 42% (p = 0.003) and 97% 
+(p < 0.001) higher, respectively, if their parent was an ever-vaper. The risk of vaping and smoking uptake among 
+teenagers was 81% (p < 0.001) and 159% (p < 0.001) higher, respectively, if their parent was an ever-smoker. 
+Parents of teenagers who have not vaped were considerably better at correctly predicting this (97% correct) than 
+parents  of  teenagers  who  have  vaped  (70%  correct).  Compared  to  parents,  teenagers  tended  to  have  less 
+agreement with statements suggesting vaping is unsafe or harmful, and more agreement with statements sug-
+gesting vaping is relatively safe. 
+Conclusions:  Parental  smoking  and vaping  behaviours  are  associated  with  those  of  their  children. Hence,  it  is 
+important that both tobacco and vaping control policies and interventions are designed to influence behaviours 
+of all demographics, consistent with the evidence.   
+
+1. Introduction 
+
+Vaping by young people in Australia is an emerging public health 
+issue,  with  national  estimates  showing  that  in  2019,  about  1  in  4 
+(26.1%) Australians aged 18–24 had tried a vape at least once, up from 
+19.2%  in  2016  .  In 
+New  South  Wales  (NSW),  Australia’s  most  populous  state,  the  most 
+recent estimates (2021) show that among those over 16, rates of ever- 
+vaping  are  highest  among  16–24  year  olds,  with  32.7%  having  ever 
+used a vape . In response to this rapid 
+increase, the Generation Vape study tracks attitudes, beliefs, knowledge, 
+
+and  behaviours  related  to  vaping,  with  data  collected  in  6-monthly 
+waves starting in September 2021 . 
+
+The  growth  in  vape  use  among  young  people  is  a  serious  public 
+health  risk  given  the  well-established  harmful  effects  of  nicotine,  the 
+known and emerging health impacts of vaping, and the increased risk of 
+future tobacco smoking initiation. Nicotine use in adolescence is asso-
+ciated with attention and mood disorders , and brain development issues ,  and  there’s  strong  evidence  that  never- 
+smokers  who  vape  are  more  likely  to  subsequently  initiate  tobacco 
+smoking than those who do not vape (Banks et al., 2022; Yoong et al., 
+
+* Corresponding author at: Charles Perkins Centre, John Hopkins Drive, The University of Sydney, Camperdown, NSW 2001, Australia. 
+
+E-mail address: Becky.freeman@sydney.edu.au (B. Freeman).  
+
+https://doi.org/10.1016/j.addbeh.2023.107931 
+Received 27 March 2023; Received in revised form 11 November 2023; Accepted 30 November 2023   
+
+AddictiveBehaviors150(2024)107931Availableonline2December20230306-4603/©2023TheAuthors.PublishedbyElsevierLtd.ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).S. Egger et al.                                                                                                                                                                                                                                    
+
+2021).  There  is  also  evidence  that  vaping  is  harmful  to  health,  with 
+outcomes including lung injury, poisoning and toxicity from inhalation, 
+addiction and burns and trauma . 
+
+While  studies  report  that  young  people  experiment  with  vaping 
+products for reasons such as flavours , ease of access , and cost , parental behaviours and at-
+titudes may also play a significant role. Not only is parental smoking a 
+key  risk  factor  for  adolescent  smoking  , but research has also shown that parental knowledge 
+of  adolescents’  activities  is  linked  to  positive  youth  adjustment  and 
+reduced engagement in risky behaviours like tobacco use . Given these factors, it is plausible 
+that a similar dynamic  of parental vaping  and parental knowledge of 
+their  child’s  vaping  could  influence  adolescent  vaping  behaviours. 
+Initial research shows that adolescents perceive their parents feel that 
+vaping  is  “less  wrong”  than  smoking,  and  that  such  perceptions  are 
+associated with adolescent vaping . Adolescents often 
+start vaping using a device obtained from a family member and receive 
+positive messages from within the family about vaping . Parents could be a key group for targeted prevention education, 
+given  their  potential  influence  on  adolescent  behaviours  . 
+
+In the current paper, we analysed data from the first three waves of 
+the Generation Vape study, focusing on the 3242 adolescents who had a 
+parent jointly participate in the Generation Vape study (wave 3 was the 
+most recent data available at the time the analysis commenced). In doing 
+this, we were able to examine parents’  awareness around one of their 
+adolescent child’s vaping habits, and to assess the effect of that parent’s 
+smoking  and  vaping  behaviours  on  their  child’s  smoking  and  vaping 
+behaviours. 
+
+2. Methods 
+
+2.1. Study design 
+
+This study is part of the larger Generation Vape project, designed to 
+examine  vaping  and  smoking  behaviour,  product  awareness,  percep-
+tions,  attitudes,  and  knowledge  across  four  groups  (14–17-year-olds, 
+18–24-year-olds, parents of 14–17-year-olds, and secondary school ed-
+ucators) at multiple times over three years using both qualitative and 
+quantitative  methods.  Data  was  obtained  from  the  first  three  survey 
+waves of 14–17-year-olds and their parents or guardians, conducted in 
+September 2021, April 2022, and September 2022, with mostly different 
+participants  in  each  wave,  but  with  some  repeat  participants.  The 
+questionnaire  was  pre-tested  with  young  people  and  parents  before 
+administration. 
+
+Table 1 
+Demographic characteristics of study participants.  
+
+Demographic characteristic 
+
+Teenagers (n 1⁄4 3242) 
+
+Gender 
+Male 
+Female 
+Non-binary and other 
+
+Age (years) 
+14 
+15 
+16 
+17 
+30–39 
+40–49 
+50+
+
+1700 (52%) 
+1509 (47%) 
+33 (1%) 
+
+740 (23%) 
+877 (27%) 
+912 (28%) 
+713 (22%) 
+0 (.) 
+0 (.) 
+0 (.) 
+
+Aboriginal or Torres Strait Islander 
+No 
+Yes 
+Prefer not to say 
+
+3049 (94%) 
+185 (6%) 
+8 (0%) 
+
+Remoteness of residence 
+Metro 
+Non-metro 
+Not known 
+
+SES of residence area 
+1 - Lowest SES 
+2 
+3 
+4 
+5 - Highest SES 
+Not known 
+
+2473 (76%) 
+762 (24%) 
+7 (0%) 
+
+401 (12%) 
+505 (16%) 
+621 (19%) 
+781 (24%) 
+927 (29%) 
+7 (0%) 
+
+Language 
+English only 
+Another language only 
+English and another language 
+
+3040 (94%) 
+51 (2%) 
+151 (5%) 
+
+Highest education level 
+Year 9–12 
+Diploma/certificate/ 
+apprenticeship 
+University degree 
+Prefer not to say 
+
+Household income per year 
+<$52,000 
+$52,000 to <$104,000 
+≥$104,000 
+Prefer not say/Don’t know 
+
+n/a^ 
+n/a^ 
+
+n/a^ 
+n/a^ 
+
+n/a^ 
+n/a^ 
+n/a^ 
+n/a^ 
+
+Parents(n 1⁄4
+3242) 
+
+1082 (33%) 
+2157 (67%) 
+3 (0%)  
+
+0 (.) 
+0 (.) 
+0 (.) 
+0 (.) 
+499 (15%) 
+1780 (55%) 
+963 (30%)  
+
+3100 (96%) 
+131 (4%) 
+11 (0%)  
+
+2473 (76%) 
+762 (24%) 
+7 (0%)  
+
+401 (12%) 
+505 (16%) 
+621 (19%) 
+781 (24%) 
+927 (29%) 
+7 (0%)  
+
+2939 (91%) 
+61 (2%) 
+242 (7%)  
+
+629 (19%) 
+1256 (39%) 
+
+1352 (42%) 
+5 (0%)  
+
+483 (15%) 
+1042 (32%) 
+1508 (47%) 
+209 (6%)  
+
+2.2. Participants 
+
+^ Parent-specific variable not asked of teenagers. 
+
+Eligible  teenage  participants  were  14–17  years  old  and  eligible 
+‘parent’ participants were parents or guardians of children aged 14–17 
+who were not high school teachers or administrators. Participants were 
+recruited through online panels, for waves 2 and 3 Australia-wide and 
+for  wave  1,  NSW  residents  only.  Teenage  participants  were  recruited 
+either  directly  via  email  or  indirectly  through  their  parents,  and  vice 
+versa.  The  analyses  were  limited  to  the  3242  teen  and  parent  pairs 
+participating in the study (Table 1). The study includes parent-teen pairs 
+only because only these data allow us to assess the associations between 
+parental actions and awareness with the smoking/vaping behaviours of 
+their own teenage children. Of these 3242 parent-teenager pairs, 595 
+contained a teenager and/or parent that participated in more than one 
+wave; for these pairs, only their earliest wave data were included. 
+
+vapes  or  e-cigarettes?”.  The  latter  ensured  only  those  with  prior 
+knowledge of vaping could participate. Key demographic characteristics 
+were monitored to ensure a representative sample, and pre-established 
+caps  were  placed  on  gender  and  age.  Parental  consent  was  required 
+for all 14–17-year-olds. Participants also had to consent after receiving a 
+Participant Information Statement. Ethics approval was granted by the 
+University  of  Sydney  Human  Research  Ethics  Committee  (project 
+number 2021/442) in July 2021. 
+
+2.3. Measures 
+
+2.3.1. Sociodemographic variables 
+
+Both teenage and parent respondents had to answer three screening 
+questions  to  confirm  eligibility.  These  questions  were  “What  is  your 
+postcode?”, “How old are you?”  and “Have you ever seen or heard of 
+
+Demographic  characteristics  of  teenage  and  parent  participants 
+included gender, age, remoteness of residence area (metro, non-metro 
+areas), socioeconomic status (SES) of the residence area (divided into 
+
+AddictiveBehaviors150(2024)1079312S. Egger et al.                                                                                                                                                                                                                                    
+
+quintiles)  ,  language  spoken  at 
+home (English and/or another language) and Aboriginal or Torres Strait 
+Islander status. Parents were asked about their highest education level 
+and household income per year, and teens were asked about their cur-
+rent school year. 
+
+2.3.2. Parents awareness of their teenage child’s vaping usage 
+
+Parents were asked “As far as you know, has your child (or any of 
+your children aged 14–17) ever vaped?”. Response options were “Yes, 
+they definitely have”, “I strongly suspect they have”, “I don’t think they 
+have”, “I am confident they have not” and “I don’t know”. 
+
+2.3.3. Safety of vaping perceptions 
+
+All  participants  were  asked  their  level  of  agreement  on  a  5-point 
+Likert  scale  (with  agreement  scored  from  ‘strongly  disagree’=1  to 
+‘strongly agree’=5 for analysis) with 8 statements relating to the safety 
+of vaping. The statements were “Vapes are unsafe to use”, “Vaping can 
+harm the developing brain”, “Vaping can damage the lungs”, “Vaping 
+during  adolescence  can  cause  addiction”,  “It  is  unsafe  to  use  vapes 
+around others”, “Vapes are healthier than smoking tobacco cigarettes”, 
+“Vapes help smokers to quit” and “Nicotine is harmless”. 
+
+2.3.4. Parental vaping and smoking (risk factors variables) 
+
+The risk factors of interest for teenagers’ smoking and vaping habits 
+were their parent’s vaping and smoking habits. Consequently, “parent 
+vape status” was derived as a dichotomous variable (ever-vaper, never- 
+vaper), with ever-vapers defined as self-reported ex- or current-vapers. 
+Similarly,  “parent  smoke  status”  was  derived  as  a  dichotomous  vari-
+able (ever-smoker, never-smoker), with ever-smokers self-reported ex- 
+or current-smokers of “cigarettes, roll your own (rollies), cigars, shisha 
+ pipes”. Additional questions asked of parents (but not of teenagers) 
+allowed us to also create 3-category “parent vape status”  and “parent 
+smoke status”  variables dividing the ever-user categories into ex- and 
+current- user categories. 
+
+2.3.5. Teenager vaping status and smoking status (outcome variables) 
+
+Primary outcomes were teenagers’ smoking status and vaping status. 
+Consequently,  “teenager  vape  status”  was  derived  as  a  dichotomous 
+outcome (ever-vaper, never-vaper), with ever-vapers defined as having 
+vaped on at least 10 occasions (and with never-vapers being those who 
+are not ever-vapers). Similarly, “teenager smoke status” was derived as a 
+dichotomous outcome (ever-smoker, never-smoker), with ever-smokers 
+defined  as having smoked at least 10 cigarettes including “cigarettes, 
+roll  your  own  (rollies),  cigars,  shisha    pipes”  (and  never-smokers 
+being those who are not ever-smokers). 
+
+2.3.6. Teenager prior vaping and prior smoking (confounder variables) 
+
+A potential confounder of the effects of parental smoking/vaping on 
+teenager smoking is teenagers’  e-cigarette use prior to the use of any 
+combustible tobacco product. Similarly, a potential confounder of the 
+effects  of  parental  smoking/vaping  on  teenager  vaping  is  teenagers’ 
+combustible  tobacco  use  prior  to  the  use  of  any  e-cigarette  product. 
+Hence, we constructed the dichotomous variables “teenager prior vap-
+ing”  and  “teenager  prior  smoking”  using  teenagers’  vaping  status, 
+smoking status and responses to the question “Which did you try first: 
+vaping or smoking?” (which was asked of teenagers who had tried both 
+smoking  and  vaping).  Specifically,  teenagers  were  classified  “yes”  for 
+“teenager prior vaping” if they had initiated vaping prior to any use of 
+combustible tobacco products. They were classified “no” if they had not 
+initiated  vaping  prior to  any use of  combustible  tobacco  products (ie 
+either never vaped or started vaping but not prior to trying a combus-
+tible  tobacco  product).  Similarly,  teenagers  were  classified  “yes”  for 
+“teenager prior smoking” if they had initiated smoking prior to any use 
+of e-cigarettes, and “no” if they had not initiated smoking prior to any 
+use of e-cigarettes. 
+
+2.4. Statistical methods 
+
+The  accuracy  of  parents’  belief  about  whether  their  teenage  child 
+had  tried  vaping  was  assessed  using  Cohen’s  kappa  statistic.  For  this 
+analysis,  parents  who  reported  “I  don’t  think  they  have”  or  “I  am 
+confident they have not” were categorised as believing their child had 
+not tried vaping, and those who reported “Yes, they definitely have” or 
+“I strongly suspect they have” were categorised as believing their child 
+had tried vaping. Cohen’s kappa can be interpreted as the probability of 
+agreement  beyond  chance  (i.e.,  adjusted  for  the  probability  of  agree-
+ment at random). As a rule of thumb for kappa values, Landis and Koch 
+suggested  the  following  categories:  Perfect  (kappa  = 1.00),  Almost 
+Perfect  (0.81–1.00),  Substantial  (0.61–0.80),  Moderate  (0.41–0.60), 
+Fair  . In addition, the sensitivity, specificity, positive predictive 
+value (PPV) and negative predicted value (NPV) of parents’ belief about 
+whether their teenage child had tried vaping were also calculated. For 
+the 8 statements relating to the safety of vaping, mean differences be-
+tween parent and teenage children in agreement scores were calculated 
+using  regression  analyses  with  generalised  estimating  equation  (GEE) 
+adjustment of standard errors for the clustering of parent and teenager 
+pairs . 
+
+2.4.1. Main analysis 
+
+Poisson regression with robust variance was used to assess the effects 
+of parents’ vaping and smoking behaviours (independent variables) on 
+teenagers’ ever-vaping and ever-smoking status (dependent variables), 
+with relative risk (RR) as the effect measure and with other independent 
+variables listed below the relevant tables. We chose RR as the measure of 
+effect  due  to  its  ease  of  interpretation  and  for  consistency  with  our 
+previous publication . 
+
+2.4.2. Supplementary analysis 
+
+First, we re-ran our main analysis but with the dependent variables 
+“recent  ever-vaper”  and  “recent  ever-smoker”  for  teenagers,  respec-
+tively, redefined as having vaped on at least 10 occasions and having 
+vaped in the past 30 days, and as having smoked at least 10 cigarettes 
+and having smoked in the past 30 days (Supplementary Table 1). Wave 1 
+data were excluded from this analysis because many regions in Australia 
+were in strict lockdowns due to COVID-19 outbreaks, thus affecting past 
+30-day  vaping  and  smoking  measures.  Second,  we  re-ran  our  main 
+analysis  but  after  recategorizing  teenagers  who  have:  1)  smoked  less 
+than 10 cigarettes in their lifetime as ever-smokers rather than never- 
+smokers  and  2)  vaped  on  less  than  10  occasions  in  their  lifetime  as 
+ever-vapers rather than never-vapers (Supplementary Table 2). Third, 
+we repeated our main analysis using logistic regression to estimate odds 
+ratios (ORs), thus allowing our estimates to be compared—and poten-
+tially  pooled  in  future  meta-analyses—with  estimates  from  similar 
+studies who estimated ORs (Supplementary Table 3). 
+
+3. Results 
+
+3.1. Participant characteristics 
+
+Among the 3242 teenagers, 52% were male, 6% were Aboriginal or 
+Torres Strait Islanders, 76% lived in a metropolitan area and 94% spoke 
+English only at home (Table 1). Among the teenagers, 95% had never 
+smoked  at  least  10  cigarettes,  thus  classified  as  ’never-smokers,’  and 
+91% had not vaped on at least 10 occasions, thus classified as ’never- 
+vapers’(Table 2). Additionally, 77% had not smoked even a few puffs, 
+and 71% had not vaped even a few puffs. The distributions of charac-
+teristics between teenage study participants in the paired sample anal-
+ysis of the current study and all teenagers in the Generation Vape study 
+were  generally  similar,  with  the  exception  that  the  entire  group  was 
+slightly older (Supplementary Table 4). Among the 3242 parents, 33% 
+were  male,  4%  were  Aboriginal  or  Torres  Strait  Islanders,  and  91% 
+
+AddictiveBehaviors150(2024)1079313S. Egger et al.                                                                                                                                                                                                                                    
+
+Table 2 
+Smoking and vaping characteristics of study participants.  
+
+Smoking and vaping characteristics 
+
+Teenagers (n 1⁄4 3242) 
+
+Parents(n 1⁄4 3242) 
+
+Smoke statusa 
+Never-smoker 
+Ever-smoker 
+
+Vape statusb 
+Never-vaper 
+Ever-vaper 
+
+Smoke/vape statusa,b combined 
+Never-vaper, never-smoker 
+Ever-vaper, never-smoker 
+Never-vaper, ever-smoker 
+Ever-vaper, ever-smoker 
+
+Teenager lifetime smoke quantity 
+Have not smoked, not even a few puffs 
+A few puffs 
+More than a few puffs but <10 cigarettes 
+10 to <100 cigarettes 
+100+ cigarettes 
+
+Teenager lifetime vape quantity 
+Have not vaped, not even a few puffs 
+A few puffs 
+More than a few puffs but <10 occasions 
+10 to <100 occasions 
+100+ occasions 
+
+Parent smoke statusa (3 categories) 
+Never-smoker 
+Ex-smoker 
+Current-smoker 
+
+Parent vape statusb (3 categories) 
+Never-vaper 
+Ex-vaper 
+Current-vaper 
+
+Teenager prior smoking# 
+No 
+Yes 
+
+Teenager prior vaping ## 
+No 
+Yes 
+
+3088 (95%) 
+154 (5%) 
+
+2937 (91%) 
+305 (9%) 
+
+2908 (90%) 
+180 (6%) 
+29 (1%) 
+125 (4%) 
+
+2486 (77%) 
+471 (15%) 
+131 (4%) 
+100 (3%) 
+54 (2%) 
+
+2294 (71%) 
+438 (14%) 
+205 (6%) 
+184 (6%) 
+121 (4%) 
+
+n/a^ 
+n/a^ 
+n/a^ 
+
+n/a^ 
+n/a^ 
+n/a^ 
+
+3120 (96%) 
+122 (4%) 
+
+3109 (96%) 
+133 (4%) 
+
+1310 (40%) 
+1932 (60%)  
+
+2393 (74%) 
+849 (26%)  
+
+1288 (40%) 
+22 (1%) 
+1105 (34%) 
+827 (26%)  
+
+n/a^^ 
+n/a^^ 
+n/a^^ 
+n/a^^ 
+n/a^^  
+
+n/a^^ 
+n/a^^ 
+n/a^^ 
+n/a^^ 
+n/a^^  
+
+1310 (40%) 
+986 (30%) 
+946 (29%)  
+
+2393 (74%) 
+278 (9%) 
+571 (18%)  
+
+n/a* 
+n/a*  
+
+n/a* 
+n/a*  
+
+a Ever-smoker is defined for teenagers as having smoked at least 10 cigarettes, and for parents as self-reported ex- or current-smoker. Never-smokers are those who 
+
+are not ever-smokers. 
+
+b Ever-vaper is defined for teenagers as having vaped on at least 10 occasions, and for parents as self-reported ex- or current-vaper. Never-vapers are those who are 
+
+not ever-vapers. 
+
+^^ Not asked in parent questionnaire. 
+^ Response options of “current-“ and “ex-“ were not available to teenagers in teenager questionnaire. 
+# Teenagers were classified “yes” for “teenager prior smoking” if they had initiated smoking prior to any use of e-cigarettes. They were classified “no” for “teenager 
+
+prior smoking” if they had not initiated smoking prior to any use of e-cigarettes (either never smoked or started smoking but not prior to trying an e-cigarette). 
+
+## Teenagers were classified “yes” for “teenager prior vaping” if they had initiated vaping prior to any use of combustible tobacco products. They were classified 
+“no” if they had not initiated vaping prior to any use of combustible tobacco products (ie either never vaped or started vaping but not prior to trying a combustible 
+tobacco product). 
+
+* Variable not calculated for parents because only teenager prior vaping/smoking is relevant for predicting teenagers smoking/vaping outcomes. Numbers are 
+
+frequencies and column percentages. 
+
+spoke English only at home (Table 1). Forty percent of parents had never 
+smoked and 74% had never vaped. A notable difference in the vaping/ 
+smoking  behaviours  of  parents  and  teenagers  was  that  only  2.6%  of 
+parent ever-vapers (22/849) had never smoked, while 59.0% of teenage 
+ever-vapers (180/305) had never smoked (Table 2). 
+
+3.2. Parents awareness of their teenage child’s vaping usage 
+
+There was ’substantial’ agreement between parents’ beliefs and the 
+reality  of  their  teenage  child  having  tried  vaping  (kappa  = 0.73) 
+(Table 3). Specifically, 89% of parents who predicted their child had not 
+tried  vaping  were  correct,  while  95%  of  parents  who  predicted  their 
+child had tried vaping were correct. Parents of teenagers who had not 
+
+AddictiveBehaviors150(2024)1079314S. Egger et al.                                                                                                                                                                                                                                    
+
+Table 3 
+Accuracy of parent’s belief about their teenage child’s vaping status.  
+
+Parent’s belief about teen’s vaping history 
+
+Teen’s vaping history   
+
+Has not tried vaping ^ 
+Has tried vaping ^^ 
+Don’t know 
+Total 
+
+Has not tried vaping* 
+
+Has tried vaping* 
+
+Total  
+
+2226 
+32 
+36 
+2294 
+Specificity 1⁄4 97% 
+
+266 
+668 
+14 
+948 
+Sensitivity 1⁄4 70% 
+
+2492 
+700 
+50  
+3242   
+Kappa 1⁄4 0.73   
+
+NPV 1⁄4 89% 
+PPV 1⁄4 95% 
+
+* Trying vaping includes having had a few puffs or more. 
+^ Combination of parent’s responses “I don’t think they have” and “I am confident they have not”. 
+^^ Combination of parent’s responses “Yes, they definitely have” and “I strongly suspect they have”. 
+
+tried  vaping  were  considerably  better  at  correctly  predicting  this 
+(specificity = 97%) than the parents of teenagers who had tried vaping 
+(sensitivity = 70%). 
+
+3.3. Safety of vaping perceptions 
+
+For both parents and teenagers, ever-vapers had lower mean agree-
+ment  scores  for  all  five  negative  statements  about  vaping  safety  than 
+their never-vaper counterparts (Table 4). Conversely, ever-vapers had 
+higher  mean  agreement scores for  all three  positive statements about 
+vaping  safety  than  their  never-vaper  counterparts.  Ever-vapers  also 
+agreed on average (that is, they had mean scores above the neutral score 
+of 3) with the five negative statements about vaping safety, except for "it 
+is  unsafe  to  use  vapes  around  others"  among  teenage  ever-vapers. 
+Compared  to  parents,  teenagers  had  significantly  lower  mean  agree-
+ment  scores  for  all  five  negative  statements  about  vaping  safety,  and 
+significantly  lower  mean  agreement  scores  for  all  the  three  positive 
+statements about vaping safety. 
+
+3.4. The effects of parents’ vaping and smoking on teenagers’ vaping and 
+smoking 
+
+3.4.1. Main analyses 
+
+After adjustment for factors listed below Table 5, the risk of vaping 
+uptake for teenagers was 42% higher (RR = 1.42, 95% CI ) if 
+their  parent  was  an  ever-vaper  (compared  to  never-vaper).  Similarly, 
+teenagers whose parent was an ever-smoker had a 81% higher risk of 
+vaping uptake (RR = 1.81, 95% CI ) than teenagers whose 
+parent was a never-smoker. The risk of smoking uptake was 97% higher 
+(RR  = 1.97,  95%  CI)  for  teenagers  whose  parent  was  an 
+ever-vaper  (compared to never-vaper),  and 159% higher  (RR = 2.59, 
+95%  CI)  for  teenagers  whose  parent  was  an  ever-smoker 
+(compared to never-smoker). 
+
+3.4.2. Supplementary analysis 
+
+Results from our analysis looking at teenagers’ recent (past 30 days) 
+vaping and smoking behaviours as outcomes were similar in magnitude 
+to those obtained from our main analysis (Supplementary Table 1). Es-
+timates of effects were generally weaker after recategorizing teenagers 
+who have: 1) smoked less than 10 cigarettes in their lifetime as ever- 
+smokers rather than never-smokers and 2) vaped on less than 10 occa-
+sions in their lifetime as ever-vapers rather than never-vapers (Supple-
+mentary Table 2). For example, the adjusted RR for teenage smoking 
+uptake according to parent smoke status decreased from RR = 2.59 in 
+the  main  analysis  (Table  5)  to  RR  = 1.64  after  recategorizing  ever- 
+smoker teenagers. 
+
+4. Discussion 
+
+Vaping  among  teenagers  has  been  highlighted  in  multiple  high- 
+profile  Australian  media outlets  as  a  growing  concern among parents 
+warranting  strong  public  health  action  (Australian  Broadcasting 
+
+Corporation, 2022). Our study shows that parents in our sample were 
+better at predicting their child’s vaping status if the child was a never- 
+vaper.  This  aligns  with  other  research  showing  that  while  adolescent 
+vaping overall is a concern to parents, their own children vaping is less 
+concerning . Additionally, parents often discount the 
+impact their own smoking and vaping has on children, attributing fac-
+tors like peer pressure or teenage rebellion to harmful or risky behav-
+iours . Our study shows that parental smoking and 
+vaping are both independently associated with increased risks of their 
+children  both  smoking  and  vaping.  Teenagers  in  our  study  viewed 
+vaping  as  safer  and  less  harmful  than  their  parents  did,  which  may 
+reflect  vaping  rates  being  higher  in  younger  age  groups  in  Australia 
+. 
+
+In our study, the adjusted relative risk of smoking uptake for teen-
+agers was 159% higher if their participant parent was an ever-smoker, or 
+173%  higher  odds in  terms  of  relative odds  (Supplementary Table  2) 
+rather  than relative  risk. This  finding  is  considerably  higher  than the 
+72% higher odds estimated in a 2011 meta-analysis of 10 studies from 11 
+countries, none of which included Australia . 
+While it is not entirely clear why our cohort had a substantially higher 
+relative odds, one possibility could be that the 5% prevalence of teenage 
+ever-smokers  in  our  study  is  notably  lower  than  the  study-specific 
+teenage  smoking  prevalences  in  the  meta-analysis,  ranging  from  12% 
+to 35%. That is, when the odds of smoking in the reference group is low, 
+even a small absolute increase in the probability of smoking can produce 
+a  disproportionately  large  odds  ratio.  We  also  found  that  teenagers 
+whose parent was an ever-smoker had a 81% higher adjusted relative 
+risk of vaping uptake (or 102% higher in terms of odds) than teenagers 
+whose parent was a never-smoker. While our 102% higher odds estimate 
+is also larger than the 41% reported in a 2018 meta-analysis of 10 studies 
+from 9 countries , such 
+differences  are  not  unexpected  given  that  e-cigarette  usage  is  rapidly 
+evolving worldwide, and that vaping and smoking behaviours are likely 
+to vary dramatically across cultures and countries. 
+
+While many studies have examined the effects of parental smoking 
+on  adolescent  smoking  and  vaping,  few  have  explored  the  effects  of 
+parental vaping. A 2018 UK study of 1152 11–18-year-olds found sig-
+nificant positive unadjusted associations between parental vaping and 
+both youth smoking and vaping, but these became non-significant after 
+adjustment  for  confounders  .  Another  UK  study  of 
+3291 youth aged 10–15 years surveyed from 2015 to 2017 concluded 
+that associations between parental and youth vaping were explained by 
+measured confounding and that associations between parental vaping 
+and youth smoking “could be explained by relatively weak unmeasured 
+confounding” . In contrast, our study’s relationships 
+between  parental vaping and  teenager vaping  and  smoking outcomes 
+remained strong after adjustment, seeming less likely to be explained by 
+weak unmeasured confounding. 
+
+Consistent with tobacco control research, our results illustrate why 
+both tobacco and vaping interventions and control policies should not 
+focus solely on young people, but take a whole of population approach 
+that benefits both adults and young people. This approach has already 
+
+AddictiveBehaviors150(2024)1079315S. Egger et al.                                                                                                                                                                                                                                    
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+r
+o
+f
+
+e
+u
+l
+a
+v
+-
+p
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+)
+5
+0
+3
+1⁄4
+n
+(
+
+r
+e
+g
+a
+n
+e
+e
+T
+
+)
+9
+4
+8
+1⁄4
+n
+(
+
+t
+n
+e
+r
+a
+P
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+r
+o
+f
+
+e
+u
+l
+a
+v
+-
+p
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+)
+7
+3
+9
+2
+1⁄4
+n
+(
+
+r
+e
+g
+a
+n
+e
+e
+T
+
+)
+3
+9
+3
+2
+1⁄4
+n
+(
+
+t
+n
+e
+r
+a
+P
+
+t
+n
+e
+m
+e
+t
+a
+t
+S
+
+^
+^
+
+r
+e
+p
+a
+v
+-
+r
+e
+v
+E
+
+^
+^
+
+r
+e
+p
+a
+v
+-
+r
+e
+v
+e
+N
+
+.
+”
+?
+s
+e
+p
+a
+v
+
+t
+u
+o
+b
+a
+
+s
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+g
+n
+i
+w
+o
+l
+l
+o
+f
+
+e
+h
+t
+
+f
+o
+
+h
+c
+a
+e
+
+h
+t
+i
+
+w
+e
+e
+r
+g
+a
+s
+i
+d
+
+r
+o
+
+e
+e
+r
+g
+a
+
+u
+o
+y
+
+o
+d
+
+y
+l
+g
+n
+o
+r
+t
+s
+w
+o
+H
+“
+
+d
+e
+k
+s
+a
+
+e
+r
+e
+w
+s
+t
+n
+e
+d
+n
+o
+p
+s
+e
+r
+
+e
+r
+e
+h
+w
+
+^
+
+s
+e
+r
+o
+c
+s
+
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+n
+a
+e
+M
+
+4
+
+e
+l
+b
+a
+T
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+8
+1
+0
+0
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+0
+7
+0
+
+.
+
+5
+6
+0
+
+.
+
+8
+4
+0
+
+.
+
+6
+6
+0
+
+.
+
+3
+6
+0
+
+.
+
+9
+4
+0
+
+.
+
+8
+1
+0
+
+.
+
+8
+3
+0
+
+.
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+7
+0
+3
+
+.
+
+7
+2
+3
+
+.
+
+0
+6
+3
+
+.
+
+3
+5
+3
+
+.
+
+6
+9
+2
+
+.
+
+3
+6
+3
+
+.
+
+2
+4
+3
+
+.
+
+1
+4
+2
+
+.
+
+7
+7
+3
+
+.
+
+2
+9
+3
+
+.
+
+8
+0
+4
+
+.
+
+9
+1
+4
+
+.
+
+9
+5
+3
+
+.
+
+4
+1
+3
+
+.
+
+4
+2
+3
+
+.
+
+3
+0
+2
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+1
+0
+0
+0
+<
+
+.
+
+0
+5
+0
+
+.
+
+3
+4
+0
+
+.
+
+2
+4
+0
+
+.
+
+8
+4
+0
+
+.
+
+9
+4
+0
+
+.
+
+8
+6
+0
+
+.
+
+3
+4
+0
+
+.
+
+8
+4
+0
+
+.
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+7
+9
+3
+
+.
+
+2
+0
+4
+
+.
+
+6
+1
+4
+
+.
+
+1
+1
+4
+
+.
+
+7
+7
+3
+
+.
+
+7
+8
+2
+
+.
+
+2
+8
+2
+
+.
+
+3
+9
+1
+
+.
+
+7
+4
+4
+
+.
+
+5
+4
+4
+
+.
+
+8
+5
+4
+
+.
+
+9
+5
+4
+
+.
+
+6
+2
+4
+
+.
+
+9
+1
+2
+
+.
+
+9
+3
+2
+
+.
+
+5
+4
+1
+
+.
+
+:
+y
+t
+e
+f
+a
+s
+
+g
+n
+i
+p
+a
+v
+
+t
+u
+o
+b
+a
+
+s
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+e
+v
+i
+t
+a
+g
+e
+N
+
+n
+i
+a
+r
+b
+
+g
+n
+i
+p
+o
+l
+e
+v
+e
+d
+
+e
+h
+t
+
+m
+r
+a
+h
+
+n
+a
+c
+
+g
+n
+i
+p
+a
+V
+
+s
+g
+n
+u
+l
+
+e
+h
+t
+
+e
+g
+a
+m
+a
+d
+
+n
+a
+c
+
+g
+n
+i
+p
+a
+V
+
+e
+s
+u
+
+o
+t
+
+e
+f
+a
+s
+n
+u
+
+e
+r
+a
+
+s
+e
+p
+a
+V
+
+n
+o
+i
+t
+c
+i
+d
+d
+a
+
+e
+s
+u
+a
+c
+
+n
+a
+c
+
+e
+c
+n
+e
+c
+s
+e
+l
+o
+d
+a
+
+g
+n
+i
+r
+u
+d
+
+g
+n
+i
+p
+a
+V
+
+s
+r
+e
+h
+t
+o
+
+d
+n
+u
+o
+r
+a
+
+s
+e
+p
+a
+v
+
+e
+s
+u
+
+o
+t
+
+e
+f
+a
+s
+n
+u
+
+s
+i
+
+t
+I
+
+s
+e
+t
+t
+e
+r
+a
+g
+i
+c
+
+o
+c
+c
+a
+b
+o
+t
+
+g
+n
+i
+k
+o
+m
+
+s
+
+n
+a
+h
+t
+
+r
+e
+i
+h
+t
+l
+a
+e
+h
+
+e
+r
+a
+
+s
+e
+p
+a
+V
+
+:
+y
+t
+e
+f
+a
+s
+
+g
+n
+i
+p
+a
+v
+
+t
+u
+o
+b
+a
+
+s
+t
+n
+e
+m
+e
+t
+a
+t
+s
+
+e
+v
+i
+t
+i
+s
+o
+P
+
+t
+i
+u
+q
+
+o
+t
+
+s
+r
+e
+k
+o
+m
+
+s
+
+p
+l
+e
+h
+
+s
+e
+p
+a
+V
+
+s
+s
+e
+l
+m
+r
+a
+h
+
+s
+i
+
+e
+n
+i
+t
+o
+c
+i
+N
+
+.
+s
+r
+e
+p
+a
+v
+-
+r
+e
+v
+e
+
+t
+o
+n
+
+e
+r
+a
+
+o
+h
+w
+e
+s
+o
+h
+t
+
+e
+r
+a
+
+s
+r
+e
+p
+a
+v
+-
+r
+e
+v
+e
+N
+
+.
+r
+e
+p
+a
+v
+-
+t
+n
+e
+r
+r
+u
+c
+
+r
+o
+
+-
+x
+e
+
+d
+e
+t
+r
+o
+p
+e
+r
+-
+f
+l
+e
+s
+
+s
+a
+
+s
+t
+n
+e
+r
+a
+p
+
+r
+o
+f
+
+d
+n
+a
+
+,
+s
+n
+o
+i
+s
+a
+c
+c
+o
+
+0
+1
+
+t
+s
+a
+e
+l
+
+t
+a
+
+n
+o
+
+d
+e
+p
+a
+v
+
+g
+n
+i
+v
+a
+h
+
+s
+a
+
+s
+r
+e
+g
+a
+n
+e
+e
+t
+
+r
+o
+f
+
+d
+e
+n
+fi
+e
+d
+
+s
+i
+
+r
+e
+p
+a
+v
+-
+r
+e
+v
+E
+
+.
+l
+a
+r
+t
+u
+e
+n
+
+g
+n
+i
+e
+b
+
+3
+
+f
+o
+
+e
+r
+o
+c
+s
+
+a
+
+d
+n
+a
+
+”
+e
+e
+r
+g
+a
+s
+i
+d
+
+y
+l
+g
+n
+o
+r
+t
+s
+“
+
+g
+n
+i
+e
+b
+
+1
+
+f
+o
+
+e
+r
+o
+c
+s
+
+a
+
+,
+”
+e
+e
+r
+g
+a
+
+y
+l
+g
+n
+o
+r
+t
+s
+“
+
+g
+n
+i
+e
+b
+
+5
+
+f
+o
+
+e
+r
+o
+c
+s
+
+a
+
+h
+t
+i
+
+w
+e
+l
+a
+c
+s
+
+t
+n
+i
+o
+p
+-
+5
+
+a
+
+n
+o
+
+d
+e
+r
+o
+c
+s
+
+s
+a
+w
+
+t
+n
+e
+m
+e
+e
+r
+g
+A
+
+^
+
+^
+^
+
+proven successful in tobacco control in Australia, with comprehensive 
+programs and interventions such as mass media campaigns, smoke free 
+policies and restrictions on industry marketing targeted to the general 
+population  playing  key  roles  . 
+Despite  this  success,  vaping  rates  are  rising  in  Australia,  particularly 
+amongst  young  people  . Moreover, given the considerable evidence of increased risks of 
+smoking uptake in non-smokers who initiate vaping , there is a risk that e-cigarette use in young Aus-
+tralians could undo decades of successful whole-of-population tobacco 
+control policies. While the family setting plays a role in vaping uptake by 
+young people, it is important not to overlook other key drivers such as 
+product design, marketing, and accessibility. Ensuring that parents are 
+well supported by an environment that reinforces that vaping products 
+are only accessible to smokers who may benefit from use as a cessation 
+aid is crucial. Shifting responsibility for adolescent vaping solely onto 
+parents  ignores the  role of commercial  actors, including retailers  and 
+importers illegally selling highly appealing products to children . Greater enforcement of Australian vaping laws is needed 
+to  ensure  nicotine-containing  vaping  products  are  only  accessible  to 
+adult smokers for smoking cessation. 
+
+An additional noteworthy finding from our study is the difference in 
+perceptions of vaping safety between ever-vapers and never-vapers, as 
+well as between parents and teenagers. Specifically, ever-vapers were 
+generally less aligned with negative safety statements and more aligned 
+with  positive  ones  than  never-vapers.  Moreover,  teenagers  tended  to 
+have  lower  agreement  with  negative  safety  statements  and  higher 
+agreement with positive safety statements compared to parents. These 
+divergent views suggest that health education campaigns aimed at ad-
+olescents could potentially be beneficial in addressing misconceptions 
+about the safety and harms of vaping. Furthermore, even though parents 
+in our study generally had a more accurate perception of vaping risks, 
+tailored information (encompassing resources and support), including 
+for  vaping parents, may  assist in clarifying misperceptions  that could 
+influence their children’s attitudes towards vaping. The potential ben-
+efits  of  tailoring  parent-specific  information  become  even  more  pro-
+nounced considering our finding that parents possess high awareness of 
+their  teenager’s  vaping  habits.  Such  tailored  information  would  be 
+perceived as highly relevant by parents of ever-vapers who are aware of 
+their child’s vaping behaviours, thus increasing the likelihood of their 
+active engagement. 
+
+Our study has limitations. First, the analysis assessing the accuracy of 
+parent’s belief about their teenage child’s vaping is based on a question 
+that doesn’t necessarily refer to the 14–17-year-old child who completed 
+the  survey  (i.e  the  question  asks  “...  has  your  child  (or  any  of  your 
+children aged 14–17) ever vaped?”). Consequently, while our analysis 
+suggests parents have a high level of awareness of one of their teenage 
+child’s vaping status, the true level may be higher if some parents are 
+referring to a different 14–17-year-old child with a discordant vaping 
+status to the child who completed the survey. Second, our study exam-
+ines only one parent’s smoking and vaping behaviours, which may not 
+capture  the  full  family  context  influencing  a  teen’s  behaviour.  This 
+limitation could attenuate estimated associations and would seemingly 
+be  more  of  a  problem  when  the  responding  parent  does  not  vape  or 
+smoke,  but  other  parent  figures  do,  compared  to  when  only  the 
+responding parent vapes or smokes, but other parent figures do not. On 
+the other hand, if there is a strong correlation between the behaviours of 
+all parent figures, this limitation will be less impactful. Future waves of 
+the study will consider including questions about non-responding par-
+ent’s smoking and vaping status. 
+
+Addressing  the  rapid  rise  in  adolescent  vaping  is  a  public  health 
+priority in Australia . Our results show that parental smoking and vaping im-
+pacts  on  both  teenagers’  vaping  and  smoking  behaviours,  suggesting 
+that policies targeting adolescents alone are unlikely to be as successful 
+as  a  whole-population  approach.  Enforcing  and  strengthening 
+
+AddictiveBehaviors150(2024)1079316 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S
+.
+
+E
+g
+g
+e
+r
+
+e
+t
+
+a
+l
+.
+
+Table 5 
+The effects of parent’s vaping and smoking behaviour on their teenage child’s vaping and smoking behaviour.    
+
+Parent vape/smoke status 
+
+Teenage ever-vaper n/N (%) 
+
+Unadjusted RR 
+
+Adjusted RR^ 
+
+Teenage ever-smokern/N (%) 
+
+Unadjusted RR 
+
+Adjusted RR^ 
+
+RR for teenage ever-vaper (compared to never-vaper) *  
+
+RR for teenage ever-smoker (compared to never-smoker) ^^ 
+
+Total: 
+Parent vape status*       
+Never-vaper 
+Ever-vaper 
+p-value  
+
+305/3242 (9%)   
+
+171/2393 (7%) 
+134/849 (16%) 
+
+Parent vape status* (3 categories) 
+Never-vaper 
+Ex-vaper 
+Current-vaper 
+p-value  
+
+171/2393 (7%) 
+34/278 (12%) 
+100/571 (18%) 
+
+ref. 
+2.21 (1.79, 2.73) 
+<0.001 
+
+ref. 
+1.42 (1.13, 1.79) 
+0.003  
+
+ref. 
+1.71 (1.21, 2.42) 
+2.45 (1.95, 3.08) 
+<0.001 
+
+ref. 
+1.13 (0.83, 1.55) 
+1.64 (1.24, 2.16) 
+0.002  
+
+Parent smoke status^^ 
+Never-smoker 
+Ever-smoker 
+p-value  
+
+62/1310 (5%) 
+243/1932 (13%) 
+
+ref. 
+2.66 (2.03, 3.48) 
+<0.001 
+
+ref. 
+1.81 (1.37, 2.39) 
+<0.001  
+
+Parent smoke status^^ (3 categories) 
+Never-smoker 
+Ex-smoker 
+Current-smoker 
+p-value  
+
+62/1310 (5%) 
+118/986 (12%) 
+125/946 (13%) 
+
+ref. 
+2.53 (1.88, 3.40) 
+2.79 (2.08, 3.74) 
+<0.001 
+
+ref. 
+2.01 (1.51, 2.67) 
+1.45 (1.04, 2.02) 
+<0.001  
+
+154/3242 (5%)   
+
+72/2393 (3%) 
+82/849 (10%) 
+
+72/2393 (3%) 
+21/278 (8%) 
+61/571 (11%) 
+
+20/1310 (2%) 
+134/1932 (7%) 
+
+20/1310 (2%) 
+50/986 (5%) 
+84/946 (9%) 
+
+ref. 
+3.21 (2.36, 4.36) 
+<0.001 
+
+ref. 
+1.97 (1.36, 2.88) 
+<0.001  
+
+ref. 
+2.51 (1.57, 4.02) 
+3.55 (2.56, 4.93) 
+<0.001 
+
+ref. 
+1.71 (1.03, 2.83) 
+2.15 (1.42, 3.24) 
+0.001  
+
+ref. 
+4.54 (2.85, 7.23) 
+<0.001 
+
+ref. 
+2.59 (1.55, 4.33) 
+<0.001  
+
+ref. 
+3.32 (1.99, 5.54) 
+5.82 (3.60, 9.40) 
+<0.001 
+
+ref. 
+2.43 (1.44, 4.11) 
+2.93 (1.64, 5.22) 
+<0.001  
+
+* Ever-vaper is defined for teenagers as having vaped on at least 10 occasions, and for parents as self-reported ex- or current-vaper. Never-vapers are those who are not ever-vapers. 
+^^ Ever-smoker is defined for teenagers as having smoked at least 10 cigarettes, and for parents as self-reported ex- or current-smoker. Never-smokers are those who are not ever-smokers. 
+^ RRs adjusted for teenage child’s gender, age, Aboriginal or Torres Strait Islander status, remoteness of residence, SES of residence area, language spoken at home, parent’s corresponding vaping variable  
+or smoking variable  and vice versa) and teenager vaping outcome models adjusted for teenager prior smoking while teenager smoking 
+outcome models adjusted for teenager prior vaping. 
+
+AddictiveBehaviors150(2024)1079317 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. Egger et al.                                                                                                                                                                                                                                    
+
+Australia’s  prescription-only  model  that  restricts  electronic  nicotine 
+delivery systems to smokers seeking to quit would both decrease young 
+peoples’ access and avoid the further normalisation of vaping products 
+as recreational, consumer goods. 
+
+Appendix A. Supplementary data 
+
+Supplementary data to this article can be found online at https://doi. 
+
+org/10.1016/j.addbeh.2023.107931. 
+
+Author agreement 
+
