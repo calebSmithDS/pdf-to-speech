@@ -15,7 +15,7 @@ pdfminer==20191125
 pdfminer.six==20240706
 pycparser==2.22
 pycryptodome==3.21.0
-pypiwin32==223
+pypiwin32==223; platform_system == "Windows"
 pyttsx3==2.98
-pywin32==308
+pywin32==308; platform_system == "Windows"
 Werkzeug==3.1.3
