@@ -3,9 +3,6 @@ from pdfminer.high_level import extract_text
 import unicodedata
 import sys
 import pyttsx3
-from tkinter import *
-from tkinter import ttk
-from tkinter import filedialog
 
 # this is basically setting the default output to utf-8, a lot of computers default to charmap
 sys.stdout.reconfigure(encoding='utf-8')
@@ -89,10 +86,6 @@ def open_file():
 #     # with open('output.txt', 'r', encoding="utf-8", errors='replace') as file:
 #     #     content = file.read()
 #     #     print(content)
-#     # creating the tkinter gui window
-#     # root = Tk()
-#     # root.title("PDF to MP3")
-#     # root.mainloop()
 
 # except Exception as e:
 #     print(f"Error reading file: {e}")
