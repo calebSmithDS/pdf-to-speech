@@ -34,10 +34,14 @@ def success():
         
         processed_file = clean_text(temp_path)
     
+    # text to txt 
+    file_name = f.filename.split('.')[0] + "-output.txt"
+    text_to_pdf(processed_file, file_name)
+
     # text to mp3 convert
-    file_name = f.filename.split('.')[0] + "-output.mp3"
+    # file_name = f.filename.split('.')[0] + "-output.mp3"
     
-    text_to_mp3(processed_file, file_name)
+    # text_to_mp3(processed_file, file_name)
         
         
     DOWNLOAD_FOLDER = f"{os.getenv('USERPROFILE')}\\Downloads"
