@@ -1,3 +1,7 @@
+"""
+This module contains custom classes to achieve the following functions: extracts text from pdf, removes intext and reference list, saves file to computer
+"""
+
 import re
 from pdfminer.high_level import extract_text
 import unicodedata
@@ -11,8 +15,16 @@ sys.stdout.reconfigure(encoding='utf-8')
 # Saving files
 ################
 
-# create an mp3 file with provided text
+# not currently in use
 def text_to_mp3(text, filename):
+    '''
+    Takes input text file and converts the file to mp3
+
+    Args:
+        text (str): string to convert
+        filename(str): name of the file - this will control where the file is saved and what format
+    '''
+
     # intialize the speaker engine 
     engine = pyttsx3.init(driverName='sapi5')
     voices = engine.getProperty('voices')
@@ -24,7 +36,14 @@ def text_to_mp3(text, filename):
     engine.stop()
 
 def text_to_pdf(text, filename):
-     # creating text file
+    """
+    creates pdf file from text
+
+    Args:
+        text (str): string to convert
+        filename(str): name of the file - this will control where the file is saved and what format (pdf)
+    """
+
     with open(filename, 'w', encoding="utf-8", errors='replace') as txtfile:
         txtfile.write(text)
     
@@ -33,8 +52,16 @@ def text_to_pdf(text, filename):
 # extracting text from pff
 #################
 
-# extracts the pdf document - creates a txt file and a mp3 file
 def clean_text(pdf):
+    """
+    extracts text from pdf document - removes references from text file
+
+    Args:
+        pdf (pdf file): pdf file in need of cleaning
+
+    Return: 
+        newText (str): str of cleaned text
+    """
     # local constants 
     # mp3_file = pdf + "-output.mp3"
     # txt_file = pdf + "-output.txt"
@@ -67,10 +94,15 @@ def clean_text(pdf):
     text_to_mp3(newtext, mp3_file)
     text_to_pdf(newtext, txt_file)
 
-def open_file():
-    # getting file path and opening window
-    filename = filedialog.askopenfilename()
-    return filename
+
+"""
+code that isnt being used at the moment
+"""
+
+# def open_file():
+#     # getting file path and opening window
+#     filename = filedialog.askopenfilename()
+#     return filename
 
 # try:
 # # this is used to take in arguments from the command line

@@ -1,14 +1,23 @@
-This script will take a research paper as a parameter. It will then remove the intext refernces (not all - the logic still needs lots of work) and the bibilography
----------------------------------------
-Step 1 - Navigate to the folder containing the python script
-- use cd followed by the folder path
----------------------------------------
-Step 2 - Run the python script with the pdf file you want cleaned 
-- type: python script.py "file-name"
-- this will create a txt file and store it in the same folder as the script
-- the file can then be uploaded to an existing text to speech software (this will be come a full feldged app at some point)
----------------------------------------
-Notes 
-- you will need to install python
-- you will need to install pdfminer.six
-  - type: pip install pdfminer
+# PDF Reference Remover
+
+A simple **Flask** web app that removes reference sections from academic PDFs using text pattern detection. Designed for clean reading or content extraction. Built using Python + Flask and deployed on Heroku
+
+# Features 
+- Upload academic PDF files 
+- Detects and removes reference sections automatically 
+- Returns a cleaned, downloadable PDF
+- Lightweight Flask backend with easy-to-use interface 
+
+# Tech Stack 
+- Python 3.11
+- Flask for backend 
+- pdfminer3 for PDF text entraction 
+- HTML/CSS for frontend
+- Deployed on Heroku
+- re module for pattern matching
+
+# Example Screenshots
+
+# Notes 
+- the site is fully functional - however it is currently down for maintence 
+- I am going to release a version that does not require having to use heroku to host the wesite. I will make a local version that can be downloaded 

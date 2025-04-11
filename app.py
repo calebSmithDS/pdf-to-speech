@@ -1,3 +1,8 @@
+"""
+This module is a flask app, which is used to serve webpages to the client based on RESTful requests.
+It serves the frontend and contacts the server to handle the backend
+"""
+
 import os
 import sys
 import time
@@ -10,13 +15,16 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
+    """
+    serves the homepage of the website
+    """
     return render_template('index.html')
-
-
-
 
 @app.route('/success', methods = ['POST'])
 def success():
+    """
+    call to backend - this function takes selected file, removes references then saves it into the users downloads folder
+    """
     # the file does upload correctly 
     if request.method == 'POST':
         
@@ -69,5 +77,9 @@ def success():
     return response
     
 if __name__ == '__main__':
+    """
+    Run the Flask development server only if this script is executed directly.
+    Uses the PORT environment variable if set (useful for deployment), otherwise defaults to 5000.
+    """
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
